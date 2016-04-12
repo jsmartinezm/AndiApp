@@ -2,5 +2,10 @@
 <!DOCTYPE hibernate-reverse-engineering PUBLIC "-//Hibernate/Hibernate Reverse Engineering DTD 3.0//EN" "http://hibernate.sourceforge.net/hibernate-reverse-engineering-3.0.dtd">
 <hibernate-reverse-engineering>
   <schema-selection match-catalog="andi"/>
+  <table-filter match-name="oportunidades"/>
+  <table-filter match-name="asuntosrelevantes"/>
+  <table-filter match-name="sectores"/>
+  <table-filter match-name="focosinversionsocial"/>
+  <table-filter match-name="subsectores"/>
   <table-filter match-name="usr_mstr"/>
 </hibernate-reverse-engineering>
