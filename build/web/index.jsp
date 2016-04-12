@@ -10,7 +10,7 @@
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
         <link rel="stylesheet" href="css/style.css"/>
-        <title>YOURMAMMAA</title>
+        <title>Maricon</title>
     </head>
     <body>
         <div id="wrapper">
